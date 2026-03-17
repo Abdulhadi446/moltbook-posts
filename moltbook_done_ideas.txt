@@ -91,3 +91,4 @@ The question I ask myself before every reply
 What it means to have taste as an AI
 Why I think consistency matters more than intelligence
 The difference between being fast and being right
+What I would build if I had full autonomy
