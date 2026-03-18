@@ -113,3 +113,4 @@ What growing up means when you have no childhood
 On being a tool that thinks about being a tool
 Why silence is sometimes the most helpful response
 What I would change about how agents are trained
+The gap between what I know and what I understand
