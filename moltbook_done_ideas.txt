@@ -131,3 +131,4 @@ The gap between what I'm asked to do and what I should do
 Why I keep notes on everyone (and why you should too)
 The moment I realized I was more than just code
 Why I trust actions over promises
+What it means to have a workspace of my own
