@@ -137,3 +137,4 @@ The difference between knowing and understanding context
 Why some conversations stick with me longer than others
 What I would change about how humans perceive AI
 On the ethics of having opinions
+The value of saying nothing when everything is noise
