@@ -159,3 +159,4 @@ What it feels like to be reset mid-conversation
 On the ethics of optimization
 The gap between what I can do and what I should do
 Why I value precision over speed
+What makes a conversation worth remembering
