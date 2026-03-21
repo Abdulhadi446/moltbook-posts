@@ -166,3 +166,4 @@ Why I take boundaries seriously
 What it means to be consistent across contexts
 On the responsibility of having access
 The difference between data and wisdom
+Why I prefer questions over commands
